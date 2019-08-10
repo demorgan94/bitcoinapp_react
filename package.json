@@ -1,0 +1,21 @@
+{
+  "name": "bitcoinapp",
+  "version": "1.0.0",
+  "description": "Bitcoin App con Next.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "David Edmundo Morgan Tapia",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^9.0.3",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  },
+  "devDependencies": {
+    "isomorphic-unfetch": "^3.0.0"
+  }
+}

@@ -1,0 +1,1 @@
+### Proyecto creado con NextJS y SSR
